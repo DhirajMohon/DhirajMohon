@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mohondhiraj21@gmail.com**
 
-- ⚡ Fun fact **I think I am a guy with fully Scene of Humor.**
+- ⚡ Fun fact **I think I am a guy with fully Sense of Humour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
