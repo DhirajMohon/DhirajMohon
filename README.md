@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajmohon&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajmohon" /> </p>
-
 - 🌱 I’m currently learning **Continual Learning for LLM**
 
 - 📫 How to reach me **mohondhiraj21@gmail.com**
