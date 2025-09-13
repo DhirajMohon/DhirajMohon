@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Continual Learning for LLM**
 
-- 📫 How to reach me **mohondhiraj21@gmail.com**
+- 📫 How to reach me **dhirajmohon.work@gmail.com**
 
 - ⚡ Fun fact **I think I am a guy with fully Sense of Humour.**
 
